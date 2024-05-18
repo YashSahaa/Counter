@@ -1,4 +1,11 @@
+
 body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.container{
     background-color: black;
     color: white;
     margin: 10px;
@@ -10,7 +17,7 @@ div{
     height: 2px;
     width: 165px;
     background-color: white;
-    margin: 10px 5px;
+    margin: 10px 67px;
 }
 .bt3{
     background-color: black;
