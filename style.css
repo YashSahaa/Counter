@@ -23,9 +23,10 @@ div{
     background-color: black;
     border: 1px solid white;
     color: white;
-    padding: 2px 15px;
+    padding: 5px 20px;
     display: none;
 }
 button{
     margin:10px 5px;
+    padding: 5px 15px;
 }
